@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1094868225639",
+    "project_id": "mah-fashion",
+    "storage_bucket": "mah-fashion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094868225639:android:e8eb4771aa48a70d0dcec2",
+        "android_client_info": {
+          "package_name": "com.example.mah_fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094868225639-0ea9ad6mqnd6vcmp3i6r9qvchocm4t4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCapn94by_2d0vg3ZC_QSRMB256mnfCXO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094868225639-0ea9ad6mqnd6vcmp3i6r9qvchocm4t4t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094868225639-gnl97fu0o0nn1nekv9uvrocaeq2pc79q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mahFashion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
